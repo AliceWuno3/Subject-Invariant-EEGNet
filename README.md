@@ -12,3 +12,5 @@ EEGNet + Subject Invariant layer that can reversely reduce subject bias
 ## Results
 Baseline: Dropout Rate 0.25, F1 score: 0.75
 SI-EEGNET: Dropout Rate 0.15 based on 0.25 dpr of baseline, F1 score: 0.77
+## Citation
+Many Thanks to Yufeng Yin, Soheil Rayatdoost, and Professor Mohammad Soleymani
